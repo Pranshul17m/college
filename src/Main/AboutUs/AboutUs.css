@@ -1,0 +1,51 @@
+
+.top {
+    border-radius: 25px 25px 0 0;
+    height: 100px;
+    width: 70%;
+    background-color: #bf7cec;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    display: flex;
+    margin-top: 60px;
+    justify-self: space-between;
+    margin-left: 100px;
+    margin-right:200px
+  }
+  
+  .name {
+    font-size: 2em;
+    color: #ffffff;
+    display: flex;
+    flex: 1;
+    margin: 10% 20px 0;
+  }
+  
+  .card img {
+    margin: 30px 20px 0 0;
+  }
+  
+  .circle-img {
+    border-radius: 50%;
+    border: 7px solid #fff;
+    width: 120px;
+    height: 120px;
+  }
+  
+  .bottom {
+    margin-top: 120px;
+  }
+  
+  .info {
+    margin: 20px 0;
+    color: #1a7e76;
+    align-items:center ;
+    margin-left: 120px;
+  }
+  .card{
+display: inline-block;
+justify-content: space-between;
+margin: 10px;
+background-color: rgb(236, 236, 236);
+  }

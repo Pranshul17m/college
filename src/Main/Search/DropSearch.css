@@ -1,0 +1,13 @@
+.drop__search{
+    display:flexbox;
+    align-items:center;
+    margin:auto;
+}
+
+.drop__search > img{
+    object-fit: contain;
+    /* height: 100px; */
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 100px;
+}
